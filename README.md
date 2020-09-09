@@ -24,7 +24,7 @@
 <p align="center">
 <a href="https://codepen.io/tayfun delibalta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tayfun delibalta" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/tayfundeli̇balta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tayfundeli̇balta" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/tayfun-deli̇balta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tayfun-deli̇balta" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/tayfun-deli̇balta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="users/12369090/tayfun-delibalta" height="30" width="30" /></a>
 <a href="https://fb.com/tayfundeli̇balta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tayfundeli̇balta" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/tayfundelibalta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tayfundelibalta" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/tayfundelibalta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tayfundelibalta" height="30" width="30" /></a>
