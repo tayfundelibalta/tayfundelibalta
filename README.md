@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Human Scale**
 
-- 🌱 I’m currently learning **C,C++**
+- 🌱 I’m currently learning **C#,C,C++**
 
 - 👨‍💻 All of my projects are available at [tayfundelibalta.com](tayfundelibalta.com)
 
