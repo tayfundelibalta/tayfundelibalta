@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayfun</h1>
-<h3 align="center">Usually create Hyper-casual games.</h3>
+<h3 align="center">I work as a Game Developer</h3>
 
-- 🔭 I’m currently working on **Human Scale**
+- 🔭 I’m currently working on **Hyper Casual Games**
 
 - 🌱 I’m currently learning **C# , C , C++**
 
