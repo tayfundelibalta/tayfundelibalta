@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [tayfundelibalta.com](tayfundelibalta.com)
 
-- 💬 Ask me about **C#,Hyper-casual game mechanics.**
+- 💬 Ask me about **C#,Unity,Hyper-Casual games.**
 
 - 📫 How to reach me **tayfundelibalta@gmail.com**
 
