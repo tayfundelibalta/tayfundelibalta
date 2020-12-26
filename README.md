@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayfun</h1>
-<h3 align="center">I work as a Game Developer</h3>
+<h3 align="center">Im a Game Developer.</h3>
 
 - 🔭 I’m currently working on **Hyper Casual Games**
 
